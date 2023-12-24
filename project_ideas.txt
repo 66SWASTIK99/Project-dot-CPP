@@ -1,6 +1,7 @@
-QR code generator
-
-Message Encryption
+Database Based:
+	-DLS Duckworth Lewis System
+	-Library Management System
+	- Student Record System
 
 Games:
 	-Ludo
@@ -9,7 +10,6 @@ Games:
 	-T Rex
 	-Ninja Run
 
-Database Based:
-	-DLS Duckworth Lewis System
-	-Library Management System
-	- Student Record System
+QR code generator
+
+Message Encryption
