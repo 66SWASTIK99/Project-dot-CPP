@@ -1,0 +1,15 @@
+QR code generator
+
+Message Encryption
+
+Games:
+	-Ludo
+	-Space War
+	-Angry Bird
+	-T Rex
+	-Ninja Run
+
+Database Based:
+	-DLS Duckworth Lewis System
+	-Library Management System
+	- Student Record System
