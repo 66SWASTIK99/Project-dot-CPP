@@ -9,6 +9,8 @@ Games:
 	-Angry Bird
 	-T Rex
 	-Ninja Run
+	-Flappy Bird
+	-Brick Breaker
 
 QR code generator
 
