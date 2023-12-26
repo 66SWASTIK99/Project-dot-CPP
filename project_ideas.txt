@@ -1,5 +1,5 @@
 Database Based:
-	-DLS Duckworth Lewis Stern Method
+	-DLS Duckworth Lewis Stern Method	R
 	-Library Management System
 	- Student Record System
 
@@ -12,10 +12,12 @@ Games:
 	-Flappy Bird
 	-Brick Breaker
 
-Text Storage with Login Security
+Text Storage with Login Security 	S
 
-Hamming Code(Error Correction)
+Hamming Code(Error Correction)		S
 
-QR code generator
 
-Message Encryption
+
+QR code generator 			N
+
+Message Encryption 			N
