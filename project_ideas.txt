@@ -1,5 +1,5 @@
 Database Based:
-	-DLS Duckworth Lewis System
+	-DLS Duckworth Lewis Stern Method
 	-Library Management System
 	- Student Record System
 
