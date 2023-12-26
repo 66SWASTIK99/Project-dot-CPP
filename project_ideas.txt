@@ -5,6 +5,7 @@ Database Based:
 
 Games:
 	-Ludo
+	-Casino
 	-Space War
 	-Angry Bird
 	-T Rex
