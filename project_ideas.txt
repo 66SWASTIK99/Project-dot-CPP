@@ -13,8 +13,9 @@ Games:
 	-Brick Breaker
 
 Text Storage with Login Security 	S
-
 Hamming Code(Error Correction)		S
+Text/File compression			S
+
 
 
 
