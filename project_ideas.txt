@@ -12,10 +12,9 @@ Games:
 	-Flappy Bird
 	-Brick Breaker
 
+Text Storage with Login Security
 
-
-
-
+Hamming Code
 
 QR code generator
 
