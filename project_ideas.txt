@@ -14,7 +14,7 @@ Games:
 
 Text Storage with Login Security
 
-Hamming Code
+Hamming Code(Error Correction)
 
 QR code generator
 
